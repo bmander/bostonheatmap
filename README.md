@@ -1,5 +1,7 @@
 ## Make a craigslist housinng price heatmap for Boston
 
+<img src="screenshot.png?raw=true" width="350"/>
+
 https://www.youtube.com/watch?v=F8nqxJ7YFic
 
 ### 1 - Get Data
